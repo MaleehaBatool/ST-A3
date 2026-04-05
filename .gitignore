@@ -1,0 +1,8 @@
+target/
+*.class
+.idea/
+*.iml
+*.log
+.DS_Store
+src/test/resources/data/*.xlsx
+!src/test/resources/data/math_test_data.xlsx
