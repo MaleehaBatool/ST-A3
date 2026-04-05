@@ -176,4 +176,4 @@ target/site/jacoco/index.html
 
 | Member | Tasks |
 |--------|-------|
-| Bilal | All tasks (Task 1–5): Setup, Test Design, Data-Driven, Config, Coverage |
+| maleeha | All tasks (Task 1–5): Setup, Test Design, Data-Driven, Config, Coverage |
