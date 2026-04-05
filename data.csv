@@ -1,0 +1,6 @@
+amount,expected
+100,true
+-1,false
+0,false
+9999,true
+5000,true
